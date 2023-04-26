@@ -1,0 +1,2 @@
+This is another file for rebase conflict from main
+Conflict for main
